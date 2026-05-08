@@ -1,0 +1,231 @@
+{
+  "month": "2025-02",
+  "completed_utc": "2026-05-08T04:42:18.340813Z",
+  "calendar_days_in_month": 20,
+  "days_skipped_idempotent": 0,
+  "days_failed": 0,
+  "days_collected_this_run": 20,
+  "duration_seconds": 14628,
+  "day_summaries": [
+    {
+      "date": "2025-02-03",
+      "skipped": false,
+      "duration_seconds": 771,
+      "bars": 1196656,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2812
+    },
+    {
+      "date": "2025-02-04",
+      "skipped": false,
+      "duration_seconds": 731,
+      "bars": 1125953,
+      "tickers_with_bars": 4992,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 3035
+    },
+    {
+      "date": "2025-02-05",
+      "skipped": false,
+      "duration_seconds": 723,
+      "bars": 1124388,
+      "tickers_with_bars": 4992,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 3044
+    },
+    {
+      "date": "2025-02-06",
+      "skipped": false,
+      "duration_seconds": 724,
+      "bars": 1126678,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 3037
+    },
+    {
+      "date": "2025-02-07",
+      "skipped": false,
+      "duration_seconds": 723,
+      "bars": 1147932,
+      "tickers_with_bars": 4996,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2984
+    },
+    {
+      "date": "2025-02-10",
+      "skipped": false,
+      "duration_seconds": 740,
+      "bars": 1111437,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 3082
+    },
+    {
+      "date": "2025-02-11",
+      "skipped": false,
+      "duration_seconds": 740,
+      "bars": 1103441,
+      "tickers_with_bars": 4992,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 3108
+    },
+    {
+      "date": "2025-02-12",
+      "skipped": false,
+      "duration_seconds": 746,
+      "bars": 1132571,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 134973,
+      "bad_ticks": 0,
+      "halts_flagged": 3026
+    },
+    {
+      "date": "2025-02-13",
+      "skipped": false,
+      "duration_seconds": 725,
+      "bars": 1119840,
+      "tickers_with_bars": 4994,
+      "universe_size": 5000,
+      "quotes": 134973,
+      "bad_ticks": 0,
+      "halts_flagged": 3066
+    },
+    {
+      "date": "2025-02-14",
+      "skipped": false,
+      "duration_seconds": 726,
+      "bars": 1099510,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 134973,
+      "bad_ticks": 0,
+      "halts_flagged": 3103
+    },
+    {
+      "date": "2025-02-17",
+      "skipped": false,
+      "duration_seconds": 715,
+      "bars": 0,
+      "tickers_with_bars": 0,
+      "universe_size": 5000,
+      "quotes": 134973,
+      "bad_ticks": 0,
+      "halts_flagged": 0
+    },
+    {
+      "date": "2025-02-18",
+      "skipped": false,
+      "duration_seconds": 729,
+      "bars": 1159087,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 134973,
+      "bad_ticks": 0,
+      "halts_flagged": 2925
+    },
+    {
+      "date": "2025-02-19",
+      "skipped": false,
+      "duration_seconds": 722,
+      "bars": 1125983,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 134973,
+      "bad_ticks": 0,
+      "halts_flagged": 3014
+    },
+    {
+      "date": "2025-02-20",
+      "skipped": false,
+      "duration_seconds": 723,
+      "bars": 1140197,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 134973,
+      "bad_ticks": 0,
+      "halts_flagged": 2981
+    },
+    {
+      "date": "2025-02-21",
+      "skipped": false,
+      "duration_seconds": 725,
+      "bars": 1179090,
+      "tickers_with_bars": 4994,
+      "universe_size": 5000,
+      "quotes": 134973,
+      "bad_ticks": 0,
+      "halts_flagged": 2848
+    },
+    {
+      "date": "2025-02-24",
+      "skipped": false,
+      "duration_seconds": 726,
+      "bars": 1180826,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 134973,
+      "bad_ticks": 0,
+      "halts_flagged": 2867
+    },
+    {
+      "date": "2025-02-25",
+      "skipped": false,
+      "duration_seconds": 722,
+      "bars": 1212616,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 134973,
+      "bad_ticks": 0,
+      "halts_flagged": 2723
+    },
+    {
+      "date": "2025-02-26",
+      "skipped": false,
+      "duration_seconds": 736,
+      "bars": 1161161,
+      "tickers_with_bars": 4990,
+      "universe_size": 5000,
+      "quotes": 134946,
+      "bad_ticks": 0,
+      "halts_flagged": 2853
+    },
+    {
+      "date": "2025-02-27",
+      "skipped": false,
+      "duration_seconds": 732,
+      "bars": 1166492,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 134946,
+      "bad_ticks": 0,
+      "halts_flagged": 2857
+    },
+    {
+      "date": "2025-02-28",
+      "skipped": false,
+      "duration_seconds": 730,
+      "bars": 1178524,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 134946,
+      "bad_ticks": 0,
+      "halts_flagged": 2836
+    }
+  ]
+}
