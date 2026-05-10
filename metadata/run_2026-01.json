@@ -1,0 +1,253 @@
+{
+  "month": "2026-01",
+  "completed_utc": "2026-05-10T20:59:03.280336Z",
+  "calendar_days_in_month": 22,
+  "days_skipped_idempotent": 0,
+  "days_failed": 0,
+  "days_collected_this_run": 22,
+  "duration_seconds": 16281,
+  "day_summaries": [
+    {
+      "date": "2026-01-01",
+      "skipped": false,
+      "duration_seconds": 721,
+      "bars": 0,
+      "tickers_with_bars": 0,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 0
+    },
+    {
+      "date": "2026-01-02",
+      "skipped": false,
+      "duration_seconds": 732,
+      "bars": 1261594,
+      "tickers_with_bars": 4994,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2658
+    },
+    {
+      "date": "2026-01-05",
+      "skipped": false,
+      "duration_seconds": 741,
+      "bars": 1311555,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2467
+    },
+    {
+      "date": "2026-01-06",
+      "skipped": false,
+      "duration_seconds": 730,
+      "bars": 1302987,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2508
+    },
+    {
+      "date": "2026-01-07",
+      "skipped": false,
+      "duration_seconds": 742,
+      "bars": 1271321,
+      "tickers_with_bars": 4998,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2602
+    },
+    {
+      "date": "2026-01-08",
+      "skipped": false,
+      "duration_seconds": 740,
+      "bars": 1254529,
+      "tickers_with_bars": 4999,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2651
+    },
+    {
+      "date": "2026-01-09",
+      "skipped": false,
+      "duration_seconds": 735,
+      "bars": 1254439,
+      "tickers_with_bars": 4999,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2673
+    },
+    {
+      "date": "2026-01-12",
+      "skipped": false,
+      "duration_seconds": 746,
+      "bars": 1267962,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2620
+    },
+    {
+      "date": "2026-01-13",
+      "skipped": false,
+      "duration_seconds": 738,
+      "bars": 1269140,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2623
+    },
+    {
+      "date": "2026-01-14",
+      "skipped": false,
+      "duration_seconds": 747,
+      "bars": 1279889,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2576
+    },
+    {
+      "date": "2026-01-15",
+      "skipped": false,
+      "duration_seconds": 733,
+      "bars": 1276050,
+      "tickers_with_bars": 4996,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2590
+    },
+    {
+      "date": "2026-01-16",
+      "skipped": false,
+      "duration_seconds": 733,
+      "bars": 1263949,
+      "tickers_with_bars": 4998,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2634
+    },
+    {
+      "date": "2026-01-19",
+      "skipped": false,
+      "duration_seconds": 725,
+      "bars": 0,
+      "tickers_with_bars": 0,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 0
+    },
+    {
+      "date": "2026-01-20",
+      "skipped": false,
+      "duration_seconds": 759,
+      "bars": 1315560,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2456
+    },
+    {
+      "date": "2026-01-21",
+      "skipped": false,
+      "duration_seconds": 757,
+      "bars": 1325098,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2442
+    },
+    {
+      "date": "2026-01-22",
+      "skipped": false,
+      "duration_seconds": 745,
+      "bars": 1284673,
+      "tickers_with_bars": 4999,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2614
+    },
+    {
+      "date": "2026-01-23",
+      "skipped": false,
+      "duration_seconds": 740,
+      "bars": 1273120,
+      "tickers_with_bars": 4996,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2643
+    },
+    {
+      "date": "2026-01-26",
+      "skipped": false,
+      "duration_seconds": 733,
+      "bars": 1268901,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2650
+    },
+    {
+      "date": "2026-01-27",
+      "skipped": false,
+      "duration_seconds": 739,
+      "bars": 1253988,
+      "tickers_with_bars": 4998,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2712
+    },
+    {
+      "date": "2026-01-28",
+      "skipped": false,
+      "duration_seconds": 748,
+      "bars": 1277987,
+      "tickers_with_bars": 4998,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2619
+    },
+    {
+      "date": "2026-01-29",
+      "skipped": false,
+      "duration_seconds": 741,
+      "bars": 1325395,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2462
+    },
+    {
+      "date": "2026-01-30",
+      "skipped": false,
+      "duration_seconds": 737,
+      "bars": 1315843,
+      "tickers_with_bars": 4998,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2461
+    }
+  ]
+}
