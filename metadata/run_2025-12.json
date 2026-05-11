@@ -1,264 +1,103 @@
 {
   "month": "2025-12",
-  "completed_utc": "2026-05-10T16:27:40.905011Z",
+  "completed_utc": "2026-05-11T11:55:01.032147Z",
   "calendar_days_in_month": 23,
-  "days_skipped_idempotent": 0,
+  "days_skipped_idempotent": 23,
   "days_failed": 0,
-  "days_collected_this_run": 23,
-  "duration_seconds": 16980,
+  "days_collected_this_run": 0,
+  "duration_seconds": 0,
   "day_summaries": [
     {
       "date": "2025-12-01",
-      "skipped": false,
-      "duration_seconds": 742,
-      "bars": 1241542,
-      "tickers_with_bars": 4994,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2711
+      "skipped": true
     },
     {
       "date": "2025-12-02",
-      "skipped": false,
-      "duration_seconds": 732,
-      "bars": 1234724,
-      "tickers_with_bars": 4995,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2713
+      "skipped": true
     },
     {
       "date": "2025-12-03",
-      "skipped": false,
-      "duration_seconds": 736,
-      "bars": 1228615,
-      "tickers_with_bars": 4993,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2733
+      "skipped": true
     },
     {
       "date": "2025-12-04",
-      "skipped": false,
-      "duration_seconds": 733,
-      "bars": 1230881,
-      "tickers_with_bars": 4997,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2731
+      "skipped": true
     },
     {
       "date": "2025-12-05",
-      "skipped": false,
-      "duration_seconds": 737,
-      "bars": 1230714,
-      "tickers_with_bars": 4993,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2753
+      "skipped": true
     },
     {
       "date": "2025-12-08",
-      "skipped": false,
-      "duration_seconds": 730,
-      "bars": 1241798,
-      "tickers_with_bars": 4995,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2691
+      "skipped": true
     },
     {
       "date": "2025-12-09",
-      "skipped": false,
-      "duration_seconds": 732,
-      "bars": 1237183,
-      "tickers_with_bars": 4994,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2701
+      "skipped": true
     },
     {
       "date": "2025-12-10",
-      "skipped": false,
-      "duration_seconds": 731,
-      "bars": 1256825,
-      "tickers_with_bars": 4996,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2667
+      "skipped": true
     },
     {
       "date": "2025-12-11",
-      "skipped": false,
-      "duration_seconds": 733,
-      "bars": 1273834,
-      "tickers_with_bars": 4995,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2595
+      "skipped": true
     },
     {
       "date": "2025-12-12",
-      "skipped": false,
-      "duration_seconds": 735,
-      "bars": 1276611,
-      "tickers_with_bars": 4995,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2581
+      "skipped": true
     },
     {
       "date": "2025-12-15",
-      "skipped": false,
-      "duration_seconds": 752,
-      "bars": 1285626,
-      "tickers_with_bars": 4996,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2533
+      "skipped": true
     },
     {
       "date": "2025-12-16",
-      "skipped": false,
-      "duration_seconds": 741,
-      "bars": 1270571,
-      "tickers_with_bars": 4998,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2586
+      "skipped": true
     },
     {
       "date": "2025-12-17",
-      "skipped": false,
-      "duration_seconds": 766,
-      "bars": 1281623,
-      "tickers_with_bars": 4998,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2545
+      "skipped": true
     },
     {
       "date": "2025-12-18",
-      "skipped": false,
-      "duration_seconds": 734,
-      "bars": 1282603,
-      "tickers_with_bars": 4995,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2558
+      "skipped": true
     },
     {
       "date": "2025-12-19",
-      "skipped": false,
-      "duration_seconds": 728,
-      "bars": 1249304,
-      "tickers_with_bars": 4997,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2683
+      "skipped": true
     },
     {
       "date": "2025-12-22",
-      "skipped": false,
-      "duration_seconds": 732,
-      "bars": 1248977,
-      "tickers_with_bars": 4998,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2702
+      "skipped": true
     },
     {
       "date": "2025-12-23",
-      "skipped": false,
-      "duration_seconds": 735,
-      "bars": 1200605,
-      "tickers_with_bars": 4998,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2917
+      "skipped": true
     },
     {
       "date": "2025-12-24",
-      "skipped": false,
-      "duration_seconds": 740,
-      "bars": 648576,
-      "tickers_with_bars": 4995,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 4995
+      "skipped": true
     },
     {
       "date": "2025-12-25",
-      "skipped": false,
-      "duration_seconds": 728,
-      "bars": 0,
-      "tickers_with_bars": 0,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 0
+      "skipped": true
     },
     {
       "date": "2025-12-26",
-      "skipped": false,
-      "duration_seconds": 745,
-      "bars": 1087177,
-      "tickers_with_bars": 4995,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 3288
+      "skipped": true
     },
     {
       "date": "2025-12-29",
-      "skipped": false,
-      "duration_seconds": 738,
-      "bars": 1176239,
-      "tickers_with_bars": 4996,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2969
+      "skipped": true
     },
     {
       "date": "2025-12-30",
-      "skipped": false,
-      "duration_seconds": 732,
-      "bars": 1173146,
-      "tickers_with_bars": 4995,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 2998
+      "skipped": true
     },
     {
       "date": "2025-12-31",
-      "skipped": false,
-      "duration_seconds": 747,
-      "bars": 1154932,
-      "tickers_with_bars": 4997,
-      "universe_size": 5000,
-      "quotes": 135000,
-      "bad_ticks": 0,
-      "halts_flagged": 3070
+      "skipped": true
     }
   ]
 }
