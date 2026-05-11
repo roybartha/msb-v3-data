@@ -1,0 +1,253 @@
+{
+  "month": "2026-03",
+  "completed_utc": "2026-05-11T05:31:47.468031Z",
+  "calendar_days_in_month": 22,
+  "days_skipped_idempotent": 0,
+  "days_failed": 0,
+  "days_collected_this_run": 22,
+  "duration_seconds": 16009,
+  "day_summaries": [
+    {
+      "date": "2026-03-02",
+      "skipped": false,
+      "duration_seconds": 723,
+      "bars": 1339687,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2366
+    },
+    {
+      "date": "2026-03-03",
+      "skipped": false,
+      "duration_seconds": 722,
+      "bars": 1373248,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2263
+    },
+    {
+      "date": "2026-03-04",
+      "skipped": false,
+      "duration_seconds": 724,
+      "bars": 1296951,
+      "tickers_with_bars": 4994,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2500
+    },
+    {
+      "date": "2026-03-05",
+      "skipped": false,
+      "duration_seconds": 729,
+      "bars": 1348969,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2314
+    },
+    {
+      "date": "2026-03-06",
+      "skipped": false,
+      "duration_seconds": 728,
+      "bars": 1334639,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2386
+    },
+    {
+      "date": "2026-03-09",
+      "skipped": false,
+      "duration_seconds": 733,
+      "bars": 1363410,
+      "tickers_with_bars": 4994,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2285
+    },
+    {
+      "date": "2026-03-10",
+      "skipped": false,
+      "duration_seconds": 722,
+      "bars": 1336298,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2366
+    },
+    {
+      "date": "2026-03-11",
+      "skipped": false,
+      "duration_seconds": 730,
+      "bars": 1290024,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2526
+    },
+    {
+      "date": "2026-03-12",
+      "skipped": false,
+      "duration_seconds": 722,
+      "bars": 1338327,
+      "tickers_with_bars": 4991,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2334
+    },
+    {
+      "date": "2026-03-13",
+      "skipped": false,
+      "duration_seconds": 722,
+      "bars": 1307845,
+      "tickers_with_bars": 4996,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2453
+    },
+    {
+      "date": "2026-03-16",
+      "skipped": false,
+      "duration_seconds": 729,
+      "bars": 1291401,
+      "tickers_with_bars": 4994,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2511
+    },
+    {
+      "date": "2026-03-17",
+      "skipped": false,
+      "duration_seconds": 731,
+      "bars": 1261718,
+      "tickers_with_bars": 4994,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2623
+    },
+    {
+      "date": "2026-03-18",
+      "skipped": false,
+      "duration_seconds": 735,
+      "bars": 1288413,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2550
+    },
+    {
+      "date": "2026-03-19",
+      "skipped": false,
+      "duration_seconds": 737,
+      "bars": 1321728,
+      "tickers_with_bars": 4993,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2419
+    },
+    {
+      "date": "2026-03-20",
+      "skipped": false,
+      "duration_seconds": 720,
+      "bars": 1311740,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2472
+    },
+    {
+      "date": "2026-03-23",
+      "skipped": false,
+      "duration_seconds": 744,
+      "bars": 1345605,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2334
+    },
+    {
+      "date": "2026-03-24",
+      "skipped": false,
+      "duration_seconds": 722,
+      "bars": 1294074,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2504
+    },
+    {
+      "date": "2026-03-25",
+      "skipped": false,
+      "duration_seconds": 720,
+      "bars": 1269149,
+      "tickers_with_bars": 4995,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2549
+    },
+    {
+      "date": "2026-03-26",
+      "skipped": false,
+      "duration_seconds": 727,
+      "bars": 1265943,
+      "tickers_with_bars": 4999,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2606
+    },
+    {
+      "date": "2026-03-27",
+      "skipped": false,
+      "duration_seconds": 722,
+      "bars": 1281614,
+      "tickers_with_bars": 4994,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2575
+    },
+    {
+      "date": "2026-03-30",
+      "skipped": false,
+      "duration_seconds": 722,
+      "bars": 1309536,
+      "tickers_with_bars": 4997,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2476
+    },
+    {
+      "date": "2026-03-31",
+      "skipped": false,
+      "duration_seconds": 723,
+      "bars": 1323265,
+      "tickers_with_bars": 4999,
+      "universe_size": 5000,
+      "quotes": 135000,
+      "bad_ticks": 0,
+      "halts_flagged": 2437
+    }
+  ]
+}
